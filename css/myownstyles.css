@@ -1,0 +1,24 @@
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+.listheaders{
+    font-weight: bold;
+}
+
+.extrainfo{
+    font-style: italic;
+}
+
+.div{
+    text-align: center;
+}
+
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
